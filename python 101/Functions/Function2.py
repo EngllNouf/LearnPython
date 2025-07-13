@@ -4,5 +4,7 @@ def Greating():
 
 
 
-    Greating()
-    Greating()
+Greating()
+Greating()
+
+
